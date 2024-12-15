@@ -1,7 +1,7 @@
 ## Project Structure
 
-- `src/consumer.rs`: Contains the implementation of the Kafka consumer.
-- `src/producer.rs`: Contains the implementation of the Kafka producer.
+- `src/bin/consumer.rs`: Contains the implementation of the Kafka consumer.
+- `src/bin/producer.rs`: Contains the implementation of the Kafka producer.
 - `docker-compose.yml`: Docker Compose configuration file for Kafka and Zookeeper.
 
 ## Configuration
